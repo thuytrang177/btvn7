@@ -18,7 +18,6 @@ let user = {
   age: 24,
   weight: 65,
   height: 182,
-  // bmi = weight / ((height/100) * (height/100)),
 }
 
 
